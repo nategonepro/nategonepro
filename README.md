@@ -1,4 +1,4 @@
-### Hi there 👋
+### This will be the source for my personal site once I actually get moving on that :)
 
 <!--
 **nategonepro/nategonepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
